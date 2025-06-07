@@ -1,2 +1,2 @@
 # Churn-Propensity
-Churn prediction model for customer dataset
+Personal project, churn prediction model for customer dataset
